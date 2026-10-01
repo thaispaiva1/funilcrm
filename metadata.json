@@ -1,0 +1,6 @@
+{
+  "name": "FluxoCRM - Sistema de Funil de Vendas Kanban",
+  "description": "Sistema comercial completo com funil de vendas em kanban, gestão de equipe, integração com BrasilAPI para consulta de CNPJ e painel de resultados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
